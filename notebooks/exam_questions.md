@@ -1,5 +1,6 @@
 ## Exam questions
 
+
 | Topic | Questions |  
 | --- | --------- | 
 | Fundamental python syntax, Lists, Loops, Cond. Stmts., Functions, Modules, Dicts | What is the difference between a list and a dictionary? How do you write a module in Python? |
